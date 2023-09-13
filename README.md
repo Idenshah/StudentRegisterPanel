@@ -6,7 +6,7 @@ This web application was created to demonstrate two main concepts:
 
 1) ASP.NET Validation Controls: The application uses ASP.NET Validation Controls to ensure that specific fields on web pages are properly filled out by users.
 
-2 )Polymorphism in Object-Oriented Programming (OOP): Polymorphism is implemented to apply different business rules for different types of students.
+2) Polymorphism in Object-Oriented Programming (OOP): Polymorphism is implemented to apply different business rules for different types of students.
 
 Usage:
 
